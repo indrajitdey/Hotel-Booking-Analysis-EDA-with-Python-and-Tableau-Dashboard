@@ -18,9 +18,14 @@ Models Used
 This project focuses on data analysis and visualization without applying machine learning models.
 
 # Results
-Found a 27% cancellation rate.
-Identified booking peaks in summer, with a 35% increase.
-Segmented customers into 4 groups based on booking patterns.
+City hotels account for 61.07% of bookings, while resort hotels make up 38.93%.
+Agent ID 9.0 handles the majority of bookings.
+Repeat guests make up only 3.86% of the total, with 96.14% being new guests.
+Room type A and BB type meal plan are the most popular choices.
+Bookings peak in August, July, and May.
+TA/TO distribution channels are widely used, and GDS channels contribute significantly to increasing ADR.
+Portugal leads in customer bookings.
+
 Outputs
 The project produced visualizations highlighting booking trends, cancellation rates, and customer demographics using Python and Tableau.
 

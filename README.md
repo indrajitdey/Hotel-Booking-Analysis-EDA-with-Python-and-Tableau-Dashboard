@@ -2,7 +2,7 @@
 # Tableau Dashboard:
 - url:
 https://public.tableau.com/app/profile/indrajit.dey/viz/HotelBookingAnalysis_17083551191040/HotelBookingDashboard?publish=yes
-
+<img width="1378" height="783" alt="Image" src="https://github.com/user-attachments/assets/4c98ad8c-64aa-4855-b2bf-c679f67e1955" />
 # About the Project
 - The project aims to analyze hotel booking data to extract insights related to booking trends, cancellations, and customer behavior, helping improve decision-making for hotel managers.
 
